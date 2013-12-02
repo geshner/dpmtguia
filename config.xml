@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.motirolabs.dpmt" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Defensoria Publica do Estado de Mato Grosso</name>
+    <name>Defensoria Pública do Estado de Mato Grosso</name>
     <description>
-        Relação de endereços e telefones da Defensoria Publica do Estado de Mato Grosso
+        Relação de endereços e telefones da Defensoria Pública do Estado de Mato Grosso
     </description>
     <author email="contato@motirolabs.com" href="http://motirolabs.com">
         Motirô Labs
